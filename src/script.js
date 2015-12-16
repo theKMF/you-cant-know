@@ -1,5 +1,5 @@
 DomReady.ready(function () {
-    alert("DOM READY");   
+    document.getElementById('Output').innerHTML = "DOM READY";   
 }
 
 
