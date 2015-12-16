@@ -1,0 +1,52 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;	
+}
+
+html	{font-size: 3vw;} 
+h1  	{font-size: 4rem; } 
+h2		{font-size: 2.6rem;}
+h3   	{font-size: 2rem; } 
+body	{font-size: 0.8rem; } 
+
+
+body{
+    background-color: #F26;
+}
+
+body{
+	background-color: #fcfdfe;
+	font-family: 'Vollkorn', serif;
+    text-align: justify;
+    margin-left: 50px;
+    padding-right: 50px;
+}
+
+h1 {
+    font-family: 'Bevan';
+    text-align: right;
+    font-weight:normal;
+    color: #fee895;
+    background-color: #c00;
+    margin:0;
+   
+    line-height:4.1rem;
+    padding:0;
+    padding-right:50px;
+}
+
+h2 {
+    font-family: 'Bevan';
+    text-align: right;
+    color: #c00;
+    margin:0;
+    padding:0;
+    padding-top:80px;
+    line-height:2.4rem;
+    font-weight:normal;
+}
+
+.section{
+    background-color: #FFF03B;
+}
